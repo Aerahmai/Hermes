@@ -1,0 +1,18 @@
+body {
+  height: 100%;
+  background: url('../images/cool-wallpaper-forest-hawaii-38136.jpg') rgb(255, 255, 255);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  font: normal 5.938em/1.58 Centaur;
+  color: rgb(242, 242, 242);
+}
+
+.text {
+  float: left;
+  width: 39.2%;
+  min-height: 118px;
+  margin: 167px 0 0 10%;
+  font-size: 1em;
+  color: rgb(242, 242, 242);
+}
